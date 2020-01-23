@@ -32,7 +32,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.4.2">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.6.0">
     
     
       
@@ -40,17 +40,17 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/application.30686662.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/application.1b62728e.css">
       
       
     
     
-      <script src="../../assets/javascripts/modernizr.74668098.js"></script>
+      <script src="../../assets/javascripts/modernizr.268332fc.js"></script>
     
     
       
         <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono&display=fallback">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
         <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
       
     
@@ -886,19 +886,32 @@
                 
                 <h1 id="blocking-rooms">Blocking Rooms</h1>
 <h2 id="block-a-room">Block a room</h2>
-<p>As a room manager you may create room blockings which prevent regular users from booking certain rooms. This feature can be used for special events during which only a few people should be allowed to create bookings for some rooms. If you are not a manager, you ca also block rooms. However, those blockings have to be approved by the owners of those rooms.</p>
-<p>To create such a blocking, go to List of Rooms in the Room Booking horizontal menu and follow these steps:</p>
+<div class="admonition warning">
+<p class="admonition-title">Before you get started</p>
+<p>If you wish to <strong>keep a room from being booked</strong> (<em>because e.g. the room is closed or under construction</em>), then
+you should use the <strong>Non-bookable periods</strong> option in the <strong>Room Details</strong> dialog (only available to room managers).</p>
+</div>
+<p><strong>Room Blockings</strong> prevent regular users from booking certain rooms while allowing a restricted list of users to do so.
+This feature can be used for special events which require a given room at 100% and need some kind of "room delegation"
+mechanism. You can block any rooms you manage, but if you are not a manager, <strong>you can still block rooms</strong>.
+However, those blockings have to be <strong>approved</strong> by the owners of those rooms.</p>
+<p>To create such a blocking, go to <strong>List of Rooms</strong> in the Room Booking horizontal menu and follow these steps:</p>
 <ul>
-<li>Choose the period during which the rooms should be blocked by clicking the start and end date on the calendars.</li>
-<li>Enter a reason for the blocking - it will be displayed to users trying to book one of the blocked rooms.</li>
-<li>Add some rooms to the Rooms list. Those will be affected by the blocking.</li>
-<li>Unless you want to be the only one to be able to book the blocked rooms, you can add other users or groups to the Allowed users/groups list.</li>
-<li>Submit the blocking after confirming that the chosen period is correct. Once you have created the blocking, the dates cannot be changed.</li>
+<li>Click <strong>Actions</strong> and then <strong>Block Rooms</strong>;</li>
+<li>Select the rooms you wish to block;</li>
+<li>Click the "checkmark" icon at the top right;</li>
+<li>Choose the period during which the rooms should be blocked by selecting the start/end date under <strong>Period</strong>;</li>
+<li>Enter a reason for the blocking - it will be displayed to users trying to book one of the blocked rooms;</li>
+<li>You may add additional rooms to the room list if needed;</li>
+<li>Unless you want to be the only one to be able to book the blocked rooms, you can add other users or groups to the
+<strong>Authorized users/groups</strong> list;</li>
+<li>Click "Block selected spaces". Please note that, once you have created the blocking, the dates cannot be changed.</li>
 </ul>
 <p><img alt="Blocking" src="../../assets/room_booking/blocking_rooms.png" /></p>
 <hr />
                 
                   
+                
                 
               
               
@@ -966,7 +979,7 @@
       
     </div>
     
-      <script src="../../assets/javascripts/application.c648116f.js"></script>
+      <script src="../../assets/javascripts/application.808e90bb.js"></script>
       
       <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
       
