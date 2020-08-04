@@ -7,34 +7,33 @@ Read about this process in detail below.
 **Note:** one module between paper peer _review_ or _editing_ must be enabled to upload paper, poster, or slides.
 
 ### Editing management
+
 From the event management page, click _Editing_ on the left banner, under _Workflows_.
 
-Click _enable module_ to enable the editing module.
+Click _Enable module_ to enable the editing module.
 
 ![](../assets/editing/enable_editing.png)
 
-Click on the toggle switch to configure which editable types are enabled, you can choose between:
+Click on the toggle switch to configure which editable types are enabled, you can choose some or all of:
 - Paper
 - Slides
 - Poster
 
-Click on _save_ to apply the changes.
+Click on _Save_ to apply the changes.
 
 ![](../assets/editing/editable_types.png)
 
-If both,the paper _peer reviewing_ and the _editing_ module are enabled, then _peer reviewing_ (which is about the content / scientific correctness of the paper) takes place first. At this stage "layout reviewing" is likely be disabled. Once the _peer reviewing_ is complete, then the paper can be submitted for _editing_.
+If both,the paper _Peer Reviewing_ and the _Editing_ modules are enabled, then _Peer Reviewing_ (which is about the content / scientific correctness of the paper) takes place first. At this stage "layout reviewing" is likely be disabled. Once the _Peer Reviewing_ is complete, then the paper can be submitted for _Editing_.
 
-![](../assets/editing/editing_workflow_chart.png)
-
-It is possible to use _editing_ **without** _paper reviewing_ enabled as well. In that case the user uploads a paper or slides or poster for editing and the event organizers will just check whether it's good to be published.
+It is possible to use _Editing_ **without** _Peer Reviewing_ enabled as well. In that case the user uploads a paper or slides or poster for editing and the event organisers will just check whether it's good to be published.
 
 Click on _Manage_ to access the editing management page.
 
 ![](../assets/editing/editing_manage.png)
 
-Click on the _start now_ button on the right of submission is not open **(1)** to open the submission for new editables.
+Click on the _Start now_ button on the right of _Submission is not open_ **(1)** to open the submission for new editables.
 
-Click on the _start now_ button on the right of editing is not open **(2)** to allow editors review the submissions.
+Click on the _Start now_ button on the right of _Editing is not open_ **(2)** to allow editors review the submissions.
 
 Click on _Manage teams_ **(3)** to open teams management and add or cancel editors.
 
@@ -44,33 +43,33 @@ Click on _List_ **(4)** to open the list of submission and assign each of them t
 
 
 ### As a submitter
-##### If paper peer review has been activated
+##### If Paper Peer Reviewing has been activated
 
-Once the paper is accepted, from the display view, as a submitter, click on the _paper peer reviewing_ section and click on _submit for editing_:
+Once the paper is accepted, from the display view, as a submitter, click on the _Paper Peer Reviewing_ sectionof the page and click on _Submit for editing_:
 
 ![](../assets/editing/editing_submit_paper.png)
 
-Upload the file you want to submit and then click on _submit_.
+Upload the file you want to submit and then click on _Submit_.
 
 ![](../assets/editing/editing_submit_paper_2.png)
 
 If the editor asks for a correction you will be able to submit a new file via the _editing_ section.
-Select the new file and then click on _submit new revision_
+Select the new file and then click on _Submit new revision_
 
 ![](../assets/editing/editing_submit_revision.png)
 
 If you want to upload slides and/or poster(s) for editing in addition, follow the process in the next section. 
 
-##### If paper peer review has not been activated
+##### If Paper Peer Review has not been activated
 
-From the event display view, as a submitter, click on _my contributions_ under _My conference_.
+From the event display view, as a submitter, click on _My Contributions_ under _My Conference_.
 See the list of your contributions and click on the contribution for which you want to upload material.
 
 Under the _Editing_ section click on the drop-down menu and select the material you want to upload.
 
 ![](../assets/editing/editing_material_submit.png)
 
-Upload the files and then click the _submit_ button.
+Upload the files and then click the _Submit_ button.
 
 ### As an editor
 
@@ -87,6 +86,6 @@ Under the submission you will see a textbox to add a comment and a drop-down men
 
 ![](../assets/editing/editing_editor.png)
 
-Click on confirm to apply the action.
+Click on _Confirm_ to apply the action.
 
 ![](../assets/editing/editing_editor_confirm.png)
