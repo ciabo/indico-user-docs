@@ -6,7 +6,7 @@ Read about this process in detail below.
 
 **Note:** one module between paper peer _review_ or _editing_ must be enabled to upload paper, poster, or slides.
 
-###Peer reviewing management
+### Peer reviewing management
 
 From the event management page, click _Peer reviewing_ on the left banner, under _Workflows_.
 
@@ -52,7 +52,7 @@ to submit a new revision of the paper in the paper peer reviewing area.
 Select the new revision and then click on _submit new revision_.
 
 ![](../assets/peer_reviewing/paper_submission_3.png)
-###As a paper reviewer
+### As a paper reviewer
 
 From the event display view, as a paper reviewer, click on the paper peer reviewer-reviewing area.
 See the list of papers you are a Reviewer of.
@@ -76,7 +76,7 @@ Click on _submit review_ **(2)** to submit the review.
 
 ![](../assets/peer_reviewing/paper_review_3.png)
 
-###As a paper judge
+### As a Judge
 From the event display view, as a paper reviewer, click on the paper peer reviewer-judging area.
 See the list of papers you are a Judge of.
 Click on the paper you want to judge to access it.
