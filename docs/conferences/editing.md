@@ -24,6 +24,8 @@ Click on _save_ to apply the changes.
 
 If both,the paper _peer reviewing_ and the _editing_ module are enabled, then _peer reviewing_ (which is about the content / scientific correctness of the paper) takes place first. At this stage "layout reviewing" is likely be disabled. Once the _peer reviewing_ is complete, then the paper can be submitted for _editing_.
 
+![](../assets/editing/editing_workflow_chart.png)
+
 It is possible to use _editing_ **without** _paper reviewing_ enabled as well. In that case the user uploads a paper or slides or poster for editing and the event organizers will just check whether it's good to be published.
 
 Click on _Manage_ to access the editing management page.
