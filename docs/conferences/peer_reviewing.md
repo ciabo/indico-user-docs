@@ -6,7 +6,7 @@ Read about this process in detail below.
 
 **Note:** one module between paper peer _review_ or _editing_ must be enabled to upload paper, poster, or slides.
 
-###Peer reviewing management
+### Peer reviewing management
 
 From the event management page, click _Peer reviewing_ on the left banner, under _Workflows_.
 
@@ -25,7 +25,7 @@ To set teams responsabilities click on _teams_.
 
 ![](../assets/peer_reviewing/teams_paper_review.png)
 
-From this page you can now select the _paper managers_, _paper reviewers_ and _paper judges_.
+From this page you can now select the _paper managers_, _paper reviewers_ and  _judges_.
 
 ![](../assets/peer_reviewing/teams_paper_review_2.png)
 
@@ -33,26 +33,28 @@ Click on _assign papers_ to open the list of papers and assign each of them to t
 
 ![](../assets/peer_reviewing/assign_paper_review.png)
 
-###As a paper submitter
+### As a paper submitter
+
 Once the abstract is accepted by a judge, from the event display view, as a paper submitter, click on the paper peer reviewing area.
 
-You will see the list of your accepted abastract. Click on submit paper for the abstract you desire.
+You will see the list of your accepted abstracts. Click on _submit paper_ for the abstract you desire.
 
 ![](../assets/peer_reviewing/paper_submission.png)
 
-Now you will be asked to select a paper from your pc. 
+Now you will be asked to select a paper from your computer. 
 
 After selecting the paper click save.
 
 ![](../assets/peer_reviewing/paper_submission_2.png)
 
-In the case the judge of your paper give the judgment: "_To be corrected_" to your paper you will be able
-to submit a new revision of the paper in the paper peer reviewing area.
+In the case the judge of your paper gives the judgment: "_To be corrected_" for your paper you will be able
+to submit a new revision of the paper in the _paper peer reviewing_ area.
 
 Select the new revision and then click on _submit new revision_.
 
 ![](../assets/peer_reviewing/paper_submission_3.png)
-###As a paper reviewer
+
+### As a paper reviewer
 
 From the event display view, as a paper reviewer, click on the paper peer reviewer-reviewing area.
 See the list of papers you are a Reviewer of.
@@ -65,7 +67,7 @@ Click _review_.
 
 ![](../assets/peer_reviewing/paper_review_2.png)
 
-You will now see a drop-down menù **(1)** where you can choose one action:
+You will now see a drop-down menu **(1)** where you can choose one action:
 - "_Accept_" to accept the paper
 - "_Reject_" to reject the paper
 - "_To be corrected_" to ask for corrections
@@ -76,14 +78,15 @@ Click on _submit review_ **(2)** to submit the review.
 
 ![](../assets/peer_reviewing/paper_review_3.png)
 
-###As a paper judge
-From the event display view, as a paper reviewer, click on the paper peer reviewer-judging area.
-See the list of papers you are a Judge of.
+### As a Judge
+
+From the event display view, as a judge, click on the paper peer reviewer-judging area.
+See the list of papers you are a judge of.
 Click on the paper you want to judge to access it.
 
 ![](../assets/peer_reviewing/paper_judge.png)
 
-You will now see a drop-down menù where you can choose one action:
+You will now see a drop-down menu where you can choose one action:
 - "_Accept_" to accept the paper
 - "_Reject_" to reject the paper
 - "_To be corrected_" to ask for corrections
