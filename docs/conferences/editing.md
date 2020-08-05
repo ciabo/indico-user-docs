@@ -4,7 +4,7 @@ This short video explains the editing process in Indico:
 
 Read about this process in detail below.
 
-**Note:** one module between paper peer _review_ or _editing_ must be enabled to upload paper, poster, or slides.
+> **Note:** To enable the upload of conference materials and proceedings, at least one of the following modules must be enabled: Editing or Paper peer reviewing.
 
 ### Editing management
 
@@ -14,20 +14,11 @@ Click _Enable module_ to enable the editing module.
 
 ![](../assets/editing/enable_editing.png)
 
-Click on the toggle switch to configure which editable types are enabled, you can choose some or all of:
-- Paper
-- Slides
-- Poster
+Click on the toggle switch to configure which editable types are enabled, you can choose any of the following options: Paper, Slides and Poster.
 
 Click on _Save_ to apply the changes.
 
 ![](../assets/editing/editable_types.png)
-
-If both,the paper _Peer Reviewing_ and the _Editing_ modules are enabled, then _Peer Reviewing_ (which is about the content / scientific correctness of the paper) takes place first. At this stage "layout reviewing" is likely be disabled. Once the _Peer Reviewing_ is complete, then the paper can be submitted for _Editing_.
-
-![](../assets/editing/editing_workflow_chart.png)
-
-It is possible to use _Editing_ **without** _Peer Reviewing_ enabled as well. In that case the user uploads a paper or slides or poster for editing and the event organisers will just check whether it's good to be published.
 
 Click on _Manage_ to access the editing management page.
 
@@ -91,3 +82,12 @@ Under the submission you will see a textbox to add a comment and a drop-down men
 Click on _Confirm_ to apply the action.
 
 ![](../assets/editing/editing_editor_confirm.png)
+
+## Using Paper Peer Reviewing with Editing
+
+Both the paper Peer Reviewing and the Editing modules can look very similar in intent. Yet, they are mutually exclusive. Peer Reviewing takes place first. Once it is complete, then the paper can be submitted for the Editing stage. Nevertheless, you may enable only one of them.
+
+The Editing module is intended to enhance and extend the complex process of change management in a certain material, we recommend its usage for larger events where reviewing is a critical step. If both of them are enabled, the base philosophy is that Peer Reviewing concerns about the content and scientific correctness of the paper, whereas Editing intends to focus on the material layout, review comments or even editor suggestions.
+
+![](../assets/editing/editing_workflow_chart.png)
+
