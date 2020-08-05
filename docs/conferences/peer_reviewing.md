@@ -4,7 +4,7 @@ This short video explains the peer review process and the Reviewer's and Judge's
 
 Read about this process in detail below.
 
-**Note:** At least one of the modules, either _Paper Peer Reviewing_ or _Editing_ must be enabled to upload paper, poster, or slides.
+> **Note**: To enable the upload of conference materials and proceedings, at least one of the following modules must be enabled: Editing or Paper peer reviewing.
 
 ### Peer Reviewing management
 
@@ -68,11 +68,12 @@ Click on _Review_.
 ![](../assets/peer_reviewing/paper_review_2.png)
 
 You will now see a drop-down menu **(1)** where you can choose one action:
+
 - "_Accept_" to accept the paper
 - "_Reject_" to reject the paper
-- "_To be corrected_" to ask for corrections
+- "_To be corrected_" to request changes
 
-You can also add a comment.
+You can also add any comments below.
 
 Click on _Submit review_ **(2)** to submit the review.
 
@@ -86,13 +87,6 @@ Click on the paper you want to judge to access it.
 
 ![](../assets/peer_reviewing/paper_judge.png)
 
-You will now see a drop-down menu where you can choose one action:
-- "_Accept_" to accept the paper
-- "_Reject_" to reject the paper
-- "_To be corrected_" to ask for corrections
-
-You can also add a comment.
-
-Click on _Judge_ **(2)** to submit your judgement.
+After selecting your decision from the dropdown, click on _Judge_ **(2)** to submit your judgement.
 
 ![](../assets/peer_reviewing/paper_judge_2.png)

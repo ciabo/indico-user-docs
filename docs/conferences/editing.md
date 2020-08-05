@@ -4,7 +4,7 @@ This short video explains the editing process in Indico:
 
 Read about this process in detail below.
 
-> **Note:** To enable the uploading of conference materials and proceedings, at least one of the following modules must be enabled: Editing or Paper peer reviewing.
+> **Note:** To enable the upload of conference materials and proceedings, at least one of the following modules must be enabled: Editing or Paper peer reviewing.
 
 ### Editing management
 
