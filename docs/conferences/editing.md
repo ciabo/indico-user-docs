@@ -85,7 +85,7 @@ Click on _Confirm_ to apply the action.
 
 ## Using Paper Peer Reviewing with Editing
 
-Both the paper Peer Reviewing and the Editing modules can look very similar in intent. Yet, they are mutually exclusive. Peer Reviewing takes place first. Once it is complete, then the paper can be submitted for the Editing stage. Nevertheless, you may enable only one of them.
+The graph shows that you can do Peer Reviewing or Editing or both, in which case Peer Reviewing takes place first.  Once it is complete, then the paper can be submitted for the Editing stage. Nevertheless, you may enable only one of them.
 
 The Editing module is intended to enhance and extend the complex process of change management in a certain material, we recommend its usage for larger events where reviewing is a critical step. If both of them are enabled, the base philosophy is that Peer Reviewing concerns about the content and scientific correctness of the paper, whereas Editing intends to focus on the material layout, review comments or even editor suggestions.
 

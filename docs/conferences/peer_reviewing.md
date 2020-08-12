@@ -35,9 +35,9 @@ Click on _Assign papers_ to open the list of papers and assign each of them to t
 
 ### As a paper submitter
 
-Once the abstract is accepted by a judge, from the event display view, as a paper submitter, click on the _Paper Peer Reviewing_ area.
+From the event display view, as a paper submitter, click on the _Paper Peer Reviewing_ area.
 
-You will see the list of your accepted abstracts. Click on _submit paper_ for the abstract you desire.
+Click on _submit paper_ .
 
 ![](../assets/peer_reviewing/paper_submission.png)
 
