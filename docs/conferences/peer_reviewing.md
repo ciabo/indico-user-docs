@@ -1,6 +1,6 @@
 This short video explains the peer review process and the Reviewer's and Judge's role in Indico:
 
-<iframe width="576" height="360" frameborder="0" src="https://cds.cern.ch/video/2275653?showTitle=true" allowfullscreen></iframe>
+<iframe width="576" height="360" frameborder="0" src="https://indico.cern.ch/event/943352/" allowfullscreen></iframe>
 
 Read about this process in detail below.
 
